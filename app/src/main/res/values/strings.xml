@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lazy</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_fragment">Home fragment</string>
+    <string name="find_fragment">Find fragment</string>
+    <string name="Recommend_fragment">Recommend fragment</string>
+    <string name="Self_fragment">Self fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
