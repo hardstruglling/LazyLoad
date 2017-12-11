@@ -1,0 +1,4 @@
+# LazyLoad
+TabLayout懒加载Fragment
+当点击Tab时切换对应的Fragment,每个Fragment通过getUserVisibleHint()方法判断对用户是否可见和标识变量isLazyLoad来控制Fragment加载数据，只有当前的
+Fragment可见且没有被加载过才会去加载数据，避免将看不到的Fragment的数据也同时加载，降低了性能并浪费资源，增加内存开销。
